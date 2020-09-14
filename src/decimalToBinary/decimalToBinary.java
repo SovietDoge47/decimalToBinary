@@ -6,7 +6,7 @@ public class decimalToBinary
 	public static void main(String[] args)
 	{
 		Scanner keyboard = new Scanner(System.in);
-		System.out.println("Enter a decimal: ");
+		System.out.println("Enter an integer: ");
 		
 		int number = keyboard.nextInt();
 		int originalNumber = number;
